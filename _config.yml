@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "Lee"
+title                    : "NoHeat's blog"
 title_separator          : "|"
 subtitle                 : "Student"
 name                     : "Lee-Tae-Hoon"
