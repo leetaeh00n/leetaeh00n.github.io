@@ -18,9 +18,9 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 locale                   : "ko-KR"
 title                    : "NoHeat's blog"
 title_separator          : "|"
-subtitle                 : "Student"
+subtitle                 : "Since 2022"
 name                     : "Lee-Tae-Hoon"
-description              : "ML, DL, Stat STUDY"
+description              : "STUDY with ME"
 url                      : "https://leetaeh00n.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Lee-Tae-Hoon"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "ML, DL, Stat STUDY"
+  bio              : "STUDY with ME"
   location         : "SouthKorea"
   email            :
   links:
