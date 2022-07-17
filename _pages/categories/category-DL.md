@@ -1,5 +1,5 @@
 ---
-title: "DeepLearning"
+title: "Network"
 layout: archive
 permalink: categories/DL
 author_profile: true

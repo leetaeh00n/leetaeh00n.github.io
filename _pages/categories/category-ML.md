@@ -1,5 +1,5 @@
 ---
-title: "MachineLearning"
+title: "DataScience"
 layout: archive
 permalink: categories/ML
 author_profile: true
