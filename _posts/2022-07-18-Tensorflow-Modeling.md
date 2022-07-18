@@ -1,3 +1,13 @@
+---
+layout: single
+title: "Modeling 세가지 방법"
+category: DL
+tag: [python, DeepLearning, Tensorflow]
+toc: true
+toc_sticky: true
+---
+
+
 # Tensorflow-Model 구현
 
 * Sequential
