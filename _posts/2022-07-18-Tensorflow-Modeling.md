@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Modeling 세가지 방법"
-category: DL
+category: DLM
 tag: [python, DeepLearning, Tensorflow]
 toc: true
 toc_sticky: true
