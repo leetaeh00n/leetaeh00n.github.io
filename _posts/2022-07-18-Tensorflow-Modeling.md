@@ -7,13 +7,11 @@ toc: true
 toc_sticky: true
 ---
 
-
 # Tensorflow-Model 구현
 
 * Sequential
 * Functional
 * Subclassing
-
 
 ```python
 from tensorflow import keras
@@ -22,29 +20,29 @@ from tensorflow.keras import activations
 ```
 
 ## Sequential
-* 직관적인 모델을 빠르게 구현할 수 있다.
 
+* 직관적인 모델을 빠르게 구현할 수 있다.
 
 ```python
 def sequential_model(input_shape):
     model = keras.Sequential(
         [   ## Input
             layers.Input(input_shape),
-            
+
             ## 1st conv
             layers.Conv2D(64, 3, strides=1, activation='relu', padding='same'),
             layers.Conv2D(64, 3, strides=1, activation='relu', padding='same'),
             layers.MaxPool2D(),
             layers.BatchNormalization(),
             layers.Dropout(0.5),
-            
+
             ## 2nd conv
             layers.Conv2D(128, 3, strides=1, activation='relu', padding='same'),
             layers.Conv2D(128, 3, strides=1, activation='relu', padding='same'),
             layers.MaxPool2D(),
             layers.BatchNormalization(),
             layers.Dropout(0.3),
-            
+
             ## Classifier
             layers.GlobalMaxPool2D(),
             layers.Dense(128, activation='relu'),
@@ -94,16 +92,15 @@ model.summary()
     Trainable params: 277,185
     Non-trainable params: 384
     _________________________________________________________________
-    
 
 ## Functional
-* 무난한 방법
 
+* 무난한 방법
 
 ```python
 def functional_model(input_shape):
     inputs = keras.Input(input_shape)
-    
+
     ## 1st conv
     x = layers.Conv2D(64, 3, strides=1, activation='relu', padding='same')(inputs)
     x = layers.Conv2D(64, 3, strides=1, activation='relu', padding='same')(x)
@@ -120,7 +117,7 @@ def functional_model(input_shape):
     x = layers.GlobalMaxPool2D()(x)
     x = layers.Dense(128, activation='relu')(x)
     outputs = layers.Dense(1, activation='sigmoid')(x)
-    
+
     model = keras.Model(inputs, outputs)
     return model
 
@@ -165,17 +162,16 @@ model.summary()
     Trainable params: 277,185
     Non-trainable params: 384
     _________________________________________________________________
-    
 
 ## Subclassing
-* pytorch와 구현이 비슷하다.
 
+* pytorch와 구현이 비슷하다.
 
 ```python
 class SimpleCNN(keras.Model):
     def __init__(self):
         super(SimpleCNN, self).__init__()
-        
+
         self.conv_block1 = keras.Sequential(
             [
                 layers.Conv2D(64, 3, strides=1, activation='relu', padding='same'),
@@ -227,4 +223,3 @@ model.summary()
     Trainable params: 277,185
     Non-trainable params: 384
     _________________________________________________________________
-    
