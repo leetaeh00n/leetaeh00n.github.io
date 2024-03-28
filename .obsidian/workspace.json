@@ -1,0 +1,175 @@
+{
+  "main": {
+    "id": "2b14e6c5ee555c24",
+    "type": "split",
+    "children": [
+      {
+        "id": "8907247f0722874e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9ffa2a294d925389",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2023-04-04-WandB.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ad16ca04caa21923",
+    "type": "split",
+    "children": [
+      {
+        "id": "7c15a6c6af420173",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "86f1d34eabc4a64d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9c4efc20967a147a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8a9d7ecdef7980cb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cc3428392805fc9a",
+    "type": "split",
+    "children": [
+      {
+        "id": "9bc1ff34d80c34a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "972d6e9e18ea89f7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_posts/2023-04-04-WandB.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8f5120813f6171ba",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_posts/2023-04-04-WandB.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2c2f35c1c7515685",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "49be636ffeaabc89",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_posts/2023-04-04-WandB.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "9ffa2a294d925389",
+  "lastOpenFiles": [
+    "_site/python/데이터시각화2/index.html",
+    "_site/python/데이터시각화/index.html",
+    "_site/python/Python에서-압축하기/index.html",
+    "_site/python/데이터시각화2",
+    "_site/python/데이터시각화",
+    "_site/python/Python에서-압축하기",
+    "_site/python",
+    "_site/dlm/WandB/index.html",
+    "_site/dlm/Tensorflow-Modeling/index.html",
+    "_site/dlm/COCOformat/index.html",
+    "_site/dlm/CNN실습/index.html",
+    "_site/screenshot.png",
+    "_site/screenshot-layouts.png",
+    "_site/images/2023-04-04-WandB/d6b754c216d87ddc96c6185c25fb62c048c3832a.png",
+    "_site/images/2023-04-04-WandB/d64b427f656259e9979109ba96dcf83ec68a55d2.png",
+    "_site/images/2023-04-04-WandB/bb2d9824c488fb135d8dd2ef2b32715c48ec710d.png",
+    "_site/images/2023-04-04-WandB/82535c9fafcc88e8b5a615f059bd4145a666657b.png",
+    "_site/images/2023-04-04-WandB/400b7cc8f133a2760d33dd834090061773cd95ef.png",
+    "_site/images/2023-04-04-WandB/3efccf7b996a67a278eef1c591eb899d4c6d30a9.png",
+    "_site/images/2023-04-04-WandB/2023-04-04-WandB_31_0.png",
+    "_site/images/2023-04-04-WandB/2023-04-04-WandB_26_1.png",
+    "_site/images/Readme.md",
+    "_site/blog/Welcome.md"
+  ]
+}
