@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "6672fe3f9596a0be",
+        "id": "499fab8a56afb9cb",
         "type": "tabs",
         "children": [
           {
-            "id": "f4d88275659b6c11",
+            "id": "b5a59a7e23ed28ac",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "images/2024-03-28-TEST/스크린샷 2024-03-28 오후 9.45.02.png"
+                "file": "_posts/2024-03-28-TEST.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "images/2024-03-28-TEST/스크린샷 2024-03-28 오후 9.45.02.png",
+                "file": "_posts/2024-03-28-TEST.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "images/2024-03-28-TEST/스크린샷 2024-03-28 오후 9.45.02.png",
+                "file": "_posts/2024-03-28-TEST.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "images/2024-03-28-TEST/스크린샷 2024-03-28 오후 9.45.02.png"
+                "file": "_posts/2024-03-28-TEST.md"
               }
             }
           }
@@ -139,47 +141,58 @@
       "switcher:퀵 스위처 열기": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
-      "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false
+      "command-palette:명령어 팔레트 열기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false
     }
   },
-  "active": "f4d88275659b6c11",
+  "active": "b5a59a7e23ed28ac",
   "lastOpenFiles": [
+    "TemplateFile.md",
+    "_posts/2024-04-01.md",
     "_posts/2024-03-28-TEST.md",
-    "images/2024-03-28-TEST",
+    "images/2024-03-28-TEST/image-202441336145.png",
     "images/2024-03-28-TEST/스크린샷 2024-03-28 오후 9.45.02.png",
+    "Template File.md",
+    "_pages/categories/category-ML.md",
+    "_pages/categories/category-DL.md",
+    "_pages/categories/category-DLM.md",
+    "_pages/tag-archive.md",
+    "_pages/category-archive.md",
+    "_site/blog/Welcome.md",
+    "blog/Welcome.md",
+    "images/2024-03-28-TEST/image-2024414949947.png",
+    "images/Readme.md",
+    "_site/images/2024-03-28-TEST/image-202441311675.png",
+    "screenshot.png",
+    "images/2024-03-28-TEST/image-202441311675.png",
+    "_site/images/2024-03-28-TEST/image-202441119713.png",
+    "images/2024-03-28-TEST/image-202441119713.png",
+    "_site/images/2024-03-28-TEST/image-202441593448.png",
+    "images/2024-03-28-TEST/image-202441593448.png",
+    "_posts/2022-09-14-데이터시각화.md",
+    "_site/Template File/index.html",
+    "_site/Template File",
+    "_site/Template File.md",
+    "_site/무제 파일.md",
+    "_site/images/2024-03-28-TEST",
+    "images/2024-03-28-TEST",
+    "_posts/2023-05-05-COCOformat.md",
+    "_posts/2023-04-04-WandB.md",
+    "README.md",
+    "CHANGELOG.md",
+    "_posts/2024-03-31.md",
+    "_site/TEST/index.html",
+    "_site/TEST",
+    "_site/python/TEST/index.html",
+    "_site/python/TEST",
+    "_posts/2022-09-15-데이터시각화2.md",
+    "_posts/2023-05-02-Python에서 압축하기.md",
     "images/README",
     "_posts/images/2022-07-19-CNN실습",
-    "_posts/images/2022-09-14-데이터시각화",
-    "_posts/images/2022-09-15-데이터시각화2",
-    "_posts/images/2023-04-04-WandB",
-    "_posts/images/2024-03-28-TEST",
-    "_posts/images",
-    "_posts/images/2024-03-28-TEST/Pasted image 20240328214508.png",
     "_posts/무제 파일.md",
     "test/_posts/2009-07-02-edge-case-many-categories.md",
     "test/_posts/2009-05-15-edge-case-nested-and-mixed-lists.md",
-    "README.md",
-    "CHANGELOG.md",
-    "screenshot.png",
-    "../images/README/screenshot-layouts.png",
-    "_posts/2023-05-05-COCOformat.md",
-    "_posts/2023-05-02-Python에서 압축하기.md",
-    "_posts/2022-09-15-데이터시각화2.md",
-    "_posts/2022-07-19-CNN실습.md",
-    "_posts/2022-07-18-Tensorflow-Modeling.md",
-    "_posts/2022-07-18-CNN.md",
-    "_posts/2023-04-04-WandB.md",
-    "_site/python/데이터시각화2/index.html",
-    "_site/python/데이터시각화/index.html",
-    "_site/screenshot.png",
-    "_site/screenshot-layouts.png",
-    "_site/images/2023-04-04-WandB/d6b754c216d87ddc96c6185c25fb62c048c3832a.png",
-    "_site/images/2023-04-04-WandB/d64b427f656259e9979109ba96dcf83ec68a55d2.png",
-    "_site/images/2023-04-04-WandB/bb2d9824c488fb135d8dd2ef2b32715c48ec710d.png",
-    "_site/images/2023-04-04-WandB/82535c9fafcc88e8b5a615f059bd4145a666657b.png",
-    "_site/images/Readme.md",
-    "_site/blog/Welcome.md"
+    "_posts/2022-07-19-CNN실습.md"
   ]
 }

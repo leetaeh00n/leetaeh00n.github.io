@@ -1,4 +1,5 @@
 {
-  "attachmentFolderPath": "images",
-  "promptDelete": false
+  "attachmentFolderPath": "./images",
+  "promptDelete": false,
+  "showLineNumber": true
 }

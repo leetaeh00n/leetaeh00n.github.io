@@ -1,0 +1,10 @@
+{
+  "consistent-attachments-and-links:collect-all-attachments": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "C"
+    }
+  ]
+}
