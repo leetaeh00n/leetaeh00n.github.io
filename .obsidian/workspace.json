@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "bf7eec7d96bd10f6",
+        "id": "965b6a0b51d3329c",
         "type": "tabs",
         "children": [
           {
-            "id": "5faa517e59ad96b2",
+            "id": "2cab7ba8fcae3cf7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2022-07-18-Tensorflow-Modeling.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -146,7 +142,7 @@
       "daily-notes:오늘의 데일리 노트 열기": false
     }
   },
-  "active": "5faa517e59ad96b2",
+  "active": "86f1d34eabc4a64d",
   "lastOpenFiles": [
     "_posts/2024-03-28-TEST.md",
     "_posts/2022-07-18-Tensorflow-Modeling.md",

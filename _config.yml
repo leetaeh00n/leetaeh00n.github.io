@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "NoHeat's blog"
+title                    : "TAEHUN blog"
 title_separator          : "|"
 subtitle                 : "Since 2022"
-name                     : "Lee-Tae-Hoon"
-description              : "STUDY with ME"
+name                     : "LEE_TAEHUN"
+description              : "Just Do It"
 url                      : "https://leetaeh00n.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -32,7 +32,7 @@ words_per_minute         : 200
 comments:
   provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
   disqus:
-    shortname            : "NoHeat"
+    shortname            : "Laehun"
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -104,15 +104,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Lee-Tae-Hoon"
+  name             : "LEE_TAEHUN"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "STUDY with ME"
+  bio              : "Just Do It"
   location         : "SouthKorea"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:xogns7652@email.com"
+      url: "mailto:xogns7652@gmail.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/leetaeh00n"
