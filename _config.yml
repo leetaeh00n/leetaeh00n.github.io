@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "TAEHUN blog"
+title                    : "Just Do It"
 title_separator          : "|"
-subtitle                 : "Since 2022"
+subtitle                 : "TAEHUN's Study"
 name                     : "LEE_TAEHUN"
 description              : "Just Do It"
 url                      : "https://leetaeh00n.github.io"
@@ -105,9 +105,9 @@ analytics:
 # Site Author
 author:
   name             : "LEE_TAEHUN"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Just Do It"
-  location         : "SouthKorea"
+  avatar           : "/assets/avartar/bio-photo.JPG" # github profile 사진 경로
+  bio              : "M.S. Students 2024 ~ "
+  location         : "Seoul, SouthKorea"
   email            :
   links:
     - label: "Email"
