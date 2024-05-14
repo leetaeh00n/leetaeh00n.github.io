@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "965b6a0b51d3329c",
+        "id": "199f5d50b9c23019",
         "type": "tabs",
         "children": [
           {
-            "id": "2cab7ba8fcae3cf7",
+            "id": "5c3939606618d7c6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2024-05-14-PasteImage.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2022-07-18-Tensorflow-Modeling.md",
+                "file": "_posts/2024-05-14-PasteImage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2022-07-18-Tensorflow-Modeling.md",
+                "file": "_posts/2024-05-14-PasteImage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2022-07-18-Tensorflow-Modeling.md"
+                "file": "_posts/2024-05-14-PasteImage.md"
               }
             }
           }
@@ -142,53 +146,53 @@
       "daily-notes:오늘의 데일리 노트 열기": false
     }
   },
-  "active": "86f1d34eabc4a64d",
+  "active": "5c3939606618d7c6",
   "lastOpenFiles": [
-    "_posts/2024-03-28-TEST.md",
+    "_site/categories/Blog.html",
+    "_site/_pages/categories/category-Blog.md",
+    "_site/_pages/categories",
+    "_site/_pages",
+    "_pages/categories/category-Blog.md",
+    "_posts/2023-05-05-COCOformat.md",
+    "_posts/2024-05-12-Recommender_System.md",
+    "images/2024-05-12-Recommender_System/2024-05-12-Recommender_System_39_1.png",
+    "images/2024-05-12-Recommender_System/2024-05-12-Recommender_System_14_0.png",
+    "images/2024-05-12-Recommender_System/2024-05-12-Recommender_System_54_1.png",
+    "images/2024-05-12-Recommender_System/2024-05-12-Recommender_System_74_1.png",
+    "_posts/2024-05-14-PasteImage.md",
+    "_site/images/2024-05-12-Recommender_System/2024-05-12-Recommender_System_74_1.png",
+    "_site/images/2024-05-12-Recommender_System/2024-05-12-Recommender_System_71_1.png",
+    "_site/images/2024-05-12-Recommender_System/2024-05-12-Recommender_System_68_1.png",
+    "_site/images/2024-05-12-Recommender_System/2024-05-12-Recommender_System_57_1.png",
+    "_site/images/2024-05-12-Recommender_System/2024-05-12-Recommender_System_54_1.png",
+    "_site/images/2024-05-12-Recommender_System/2024-05-12-Recommender_System_51_1.png",
+    "_site/images/2024-05-12-Recommender_System",
+    "images/2024-05-12-Recommender_System",
+    "_posts/2024-05-14-Recommender_System.md",
+    "_site/images/2024-05-12-Recommender_System_files",
+    "images/2024-05-12-Recommender_System_files",
+    "_site/Recommender_System/index.html",
+    "_site/Recommender_System",
+    "_site/page2/index.html",
+    "_site/page2",
+    "_site/blog/Welcome.md",
+    "_site/images/Readme.md",
+    "_posts/2022-07-18-CNN.md",
+    "_pages/categories/category-python.md",
+    "TemplateFile.md",
+    "images/Readme.md",
     "_posts/2022-07-18-Tensorflow-Modeling.md",
+    "_posts/2023-05-02-Python에서 압축하기.md",
+    "_posts/2024-03-28-TEST.md",
     "_posts/2022-09-14-데이터시각화.md",
     "_posts/2022-07-19-CNN실습.md",
-    "_posts/2022-07-18-CNN.md",
-    "_posts/2023-05-05-COCOformat.md",
-    "_posts/2023-05-02-Python에서 압축하기.md",
-    "TemplateFile.md",
-    "screenshot.png",
     "_posts/2024-04-01.md",
-    "images/2024-03-28-TEST/image-202441336145.png",
-    "images/2024-03-28-TEST/스크린샷 2024-03-28 오후 9.45.02.png",
     "Template File.md",
     "_pages/categories/category-ML.md",
     "_pages/categories/category-DL.md",
     "_pages/categories/category-DLM.md",
     "_pages/tag-archive.md",
     "_pages/category-archive.md",
-    "_site/blog/Welcome.md",
-    "blog/Welcome.md",
-    "images/2024-03-28-TEST/image-2024414949947.png",
-    "images/Readme.md",
-    "_site/images/2024-03-28-TEST/image-202441311675.png",
-    "images/2024-03-28-TEST/image-202441311675.png",
-    "_site/images/2024-03-28-TEST/image-202441119713.png",
-    "images/2024-03-28-TEST/image-202441119713.png",
-    "_site/images/2024-03-28-TEST/image-202441593448.png",
-    "images/2024-03-28-TEST/image-202441593448.png",
-    "_site/Template File/index.html",
-    "_site/Template File",
-    "_site/Template File.md",
-    "_site/무제 파일.md",
-    "_site/images/2024-03-28-TEST",
-    "images/2024-03-28-TEST",
-    "_posts/2023-04-04-WandB.md",
-    "README.md",
-    "CHANGELOG.md",
-    "_posts/2024-03-31.md",
-    "_site/TEST/index.html",
-    "_site/TEST",
-    "_site/python/TEST/index.html",
-    "_site/python/TEST",
-    "_posts/2022-09-15-데이터시각화2.md",
-    "images/README",
-    "_posts/images/2022-07-19-CNN실습",
-    "_posts/무제 파일.md"
+    "blog/Welcome.md"
   ]
 }
